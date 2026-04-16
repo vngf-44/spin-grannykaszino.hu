@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on Spin-grannykaszino</title>
-    <link>http://localhost:1313/contacts/</link>
+    <link>https://spin-grannykazino.hu/contacts/</link>
     <description>Recent content in Contacts on Spin-grannykaszino</description>
     <generator>Hugo</generator>
     <language>hu</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/contacts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spin-grannykazino.hu/contacts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
