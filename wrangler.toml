@@ -1,0 +1,11 @@
+name = "spin-grannykazino-hu"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spin-grannykazino.hu"
+HMAC_KEY = "09d4bb160a5f698e0c5edc17871e3d412f4f93820cfe6f9828271a0f68f1d635"
+COOKIE_NAME = "s1p"
+PLAY_PATH = "discover"
+BUTTON_ID = "p1145cfcec81914b1d8786b9b1d184af7"
+GATE_SALT = "13ccb4641877eadc"
